@@ -8,8 +8,8 @@ I have a focus on modern frontend stack and architect/develop their solutions. I
 
 Connect with me on Social Media
 
-- 👩🏻‍💻 Twitter: @itsmunene_
-- 👩🏻‍💻 LinkedIn: antony_dev
+- 👩🏻‍💻 Twitter:  [@itsmunene_](https://x.com/itsmunene_)
+- 👩🏻‍💻 LinkedIn: [@antony_dev](www.linkedin.com/in/antony-dev-munene)
 
 
 <!--
