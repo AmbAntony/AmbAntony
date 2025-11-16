@@ -1,8 +1,10 @@
+**About Me**
 - 👋 Hi, I’m Antony Waweru.
-- 👩🏻‍💻 I am a Software Developer and a writer based in Nairobi, Kenya.
-- 🌅 I am the owner and founder of Lite Mag. A new age magazine through which I provide various technology news and insights. 
+- 👩🏻‍💻 I am a Software Developer and a Writer based in Nairobi, Kenya.
+- 🌅 I am the owner and founder of Lite Mag. A new age magazine through which I provide various technology news and insights.
+- 
 
-What I do:
+**What I do:**
 
 I have a focus on modern frontend stack and architect/develop their solutions. I have expertise/preference in using tools such as React, React Native, Next.js, GraphQL, and Cypress. I am passionate about community service, and love to engage with the tech community to learn and share ideas.
 
