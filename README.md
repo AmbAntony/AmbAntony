@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Antony Waweru.
 - 👩🏻‍💻 I am a Software Developer and a Writer based in Nairobi, Kenya.
 - 🌅 I am the owner and founder of Lite Mag. A new age magazine through which I provide various technology news and insights.
-- 
+
 
 **What I do:**
 
